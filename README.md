@@ -32,7 +32,7 @@ We're utilizing TensorFlow, an open-source machine learning framework, to train 
    Execute the main script to start the training and generate logs.
 
    ```
-   python [name-of-the-script].py
+   python main.py
    ```
 
 4. **Visualizing the Logs**
